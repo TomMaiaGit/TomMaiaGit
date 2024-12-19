@@ -51,8 +51,8 @@
   </a>
 </div>
 
-###
+### 
 
-<img src="https://raw.githubusercontent.com/TomMaiaGIt/TomMaiaGIt/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/TomMaiaGIt/TomMaiaGIt/output/github-contribution-grid-snake.gif" alt="Snake animation" />
 
 ###
