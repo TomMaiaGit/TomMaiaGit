@@ -10,7 +10,6 @@
 </div>
 
 ###
-<img  align="left" height="150" width="650" src="https://raw.githubusercontent.com/TomMaiaGIt/TomMaiaGIt/output/github-contribution-grid-snake.gif" />
 <img align="right" height="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExamc4dXcwcWxkcXd5d3RkamlqaHRyMXZzNHExMWJjdWdwY2ttN3gzMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.webp"  />
 
 
@@ -38,6 +37,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+  <img  align="left" height="150" width="650" src="https://raw.githubusercontent.com/TomMaiaGIt/TomMaiaGIt/output/github-contribution-grid-snake.gif" />
 </div>
 
 ###
