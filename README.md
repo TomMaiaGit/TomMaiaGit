@@ -41,6 +41,7 @@
 
 
 <div align="center">
+   <img  align="left" height="200" width="600" src="https://raw.githubusercontent.com/TomMaiaGIt/TomMaiaGIt/output/github-contribution-grid-snake.gif" />
   <a href="evertondrums.2@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="40" alt="gmail logo"  />
   </a>
@@ -50,4 +51,4 @@
   </a>
 </div>
 
- <img  align="left" height="350" width="600" src="https://raw.githubusercontent.com/TomMaiaGIt/TomMaiaGIt/output/github-contribution-grid-snake.gif" />
+
