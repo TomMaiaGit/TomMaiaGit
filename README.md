@@ -40,9 +40,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
 </div>
 
-<div>
-  <img  align="left" height="120" width="600" src="https://raw.githubusercontent.com/TomMaiaGIt/TomMaiaGIt/output/github-contribution-grid-snake.gif" />
-</div>
 
 <div align="center">
   <a href="evertondrums.2@gmail.com" target="_blank">
@@ -52,6 +49,10 @@
   <a href="https://br.linkedin.com/in/everton-maia-da-silva-72088766" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="40" alt="linkedin logo"  />
   </a>
+</div>
+
+<div>
+  <img  align="left" height="120" width="600" src="https://raw.githubusercontent.com/TomMaiaGIt/TomMaiaGIt/output/github-contribution-grid-snake.gif" />
 </div>
 
 
