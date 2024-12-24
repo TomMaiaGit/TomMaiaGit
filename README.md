@@ -37,7 +37,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
-  <img  align="left" height="150" width="600" src="https://raw.githubusercontent.com/TomMaiaGIt/TomMaiaGIt/output/github-contribution-grid-snake.gif" />
 </div>
 
 ###
@@ -53,8 +52,5 @@
 </div>
 
 ### 
-
-
-
-
+ <img  align="left" height="150" width="600" src="https://raw.githubusercontent.com/TomMaiaGIt/TomMaiaGIt/output/github-contribution-grid-snake.gif" />
 ###
