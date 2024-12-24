@@ -10,7 +10,7 @@
 </div>
 
 <div> 
-<img  align="left" height="150" width="400" src="https://raw.githubusercontent.com/TomMaiaGIt/TomMaiaGIt/output/github-contribution-grid-snake.gif" />
+<img  align="left" height="150" width="600" src="https://raw.githubusercontent.com/TomMaiaGIt/TomMaiaGIt/output/github-contribution-grid-snake.gif" />
 <img align="right" height="300" width="500" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExamc4dXcwcWxkcXd5d3RkamlqaHRyMXZzNHExMWJjdWdwY2ttN3gzMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.webp"  />
  
 </div>
