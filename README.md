@@ -9,13 +9,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TomMaiaGIt&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true" height="100" alt="languages graph"  />
 </div>
 
+<div>
+  <img  align="left" height="120" width="600" src="https://raw.githubusercontent.com/TomMaiaGIt/TomMaiaGIt/output/github-contribution-grid-snake.gif" />
+</div>
 <div> 
 <img align="right" height="260" width="360" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExamc4dXcwcWxkcXd5d3RkamlqaHRyMXZzNHExMWJjdWdwY2ttN3gzMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.webp"  />
  
 </div>
-<div>
-  <img  align="left" height="120" width="600" src="https://raw.githubusercontent.com/TomMaiaGIt/TomMaiaGIt/output/github-contribution-grid-snake.gif" />
-</div>
+
 
 
 
