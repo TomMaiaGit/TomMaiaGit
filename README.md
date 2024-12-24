@@ -55,6 +55,6 @@
 
 <img src="https://raw.githubusercontent.com/TomMaiaGIt/TomMaiaGIt/output/github-contribution-grid-snake.gif" alt="Snake animation" />
 
-![snake animation](https://github.com/<TomMaiaGIt>/<TomMaiaGIt>/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/TomMaiaGIt/TomMaiaGIt/blob/output/github-contribution-grid-snake2.svg)
 
 ###
