@@ -54,6 +54,6 @@
 ### 
 
 
-<img align="right" height="100" width="200" src="https://raw.githubusercontent.com/TomMaiaGIt/TomMaiaGIt/output/github-contribution-grid-snake.gif" />
+<img align="right" height="200" width="300" src="https://raw.githubusercontent.com/TomMaiaGIt/TomMaiaGIt/output/github-contribution-grid-snake.gif" />
 
 ###
