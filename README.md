@@ -51,4 +51,3 @@
 </div>
 
  <img  align="left" height="350" width="600" src="https://raw.githubusercontent.com/TomMaiaGIt/TomMaiaGIt/output/github-contribution-grid-snake.gif" />
-###
