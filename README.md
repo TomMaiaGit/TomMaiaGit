@@ -39,7 +39,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
 </div>
 
-###
 
 <div align="center">
   <a href="evertondrums.2@gmail.com" target="_blank">
