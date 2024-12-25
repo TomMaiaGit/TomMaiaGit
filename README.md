@@ -16,7 +16,7 @@
 </div>
 
 
-<div align="center" width="300">
+<div align="center">
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
@@ -44,7 +44,7 @@
 
 
 <div>
-  <img  align="left" height="110" width="520" src="https://raw.githubusercontent.com/TomMaiaGIt/TomMaiaGIt/output/github-contribution-grid-snake.gif" />
+  <img  align="left" height="110" width="540" src="https://raw.githubusercontent.com/TomMaiaGIt/TomMaiaGIt/output/github-contribution-grid-snake.gif" />
 </div>
 
 <div align="center">
