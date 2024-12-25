@@ -44,7 +44,7 @@
 
 
 <div>
-  <img  align="left" height="110" width="540" src="https://raw.githubusercontent.com/TomMaiaGIt/TomMaiaGIt/output/github-contribution-grid-snake.gif" />
+  <img  align="left" height="110" width="528" src="https://raw.githubusercontent.com/TomMaiaGIt/TomMaiaGIt/output/github-contribution-grid-snake.gif" />
 </div>
 
 <div align="center">
