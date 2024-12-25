@@ -16,7 +16,7 @@
 </div>
 
 
-<div align="center">
+<div align="center" width="300">
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
